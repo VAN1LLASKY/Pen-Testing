@@ -1,1 +1,1 @@
-location='/memo?memo='+document.cookie;
+location='/memo?memo=test123';
